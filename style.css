@@ -1,0 +1,28 @@
+img {
+  display: flex;
+}
+label {
+  padding: 20px;
+}
+h2 {
+  color: rgb(176, 11, 11);
+  font-family: "Aptos Narrow";
+  font-weight: bold;
+  margin-left: 30px;
+  font-size: 30px;
+}
+#menu {
+  color: black;
+  display: flex;
+  padding: 20px;
+}
+#btn_Entrar {
+  width: 150px;
+  height: 50 px;
+  margin-left: 20px;
+  color: white;
+  background-color: blueviolet;
+  font-weight: bold;
+  font-size: 20px;
+  border: none;
+}
